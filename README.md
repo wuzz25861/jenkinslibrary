@@ -3,7 +3,7 @@
 
 
 ## 简介
-
+http://www.idevops.site/jenkins/
 本共享库是《DevOps流水线最佳实践》教程产出，涵盖基本的构建、部署、发布工具集成。
 
 
